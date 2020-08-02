@@ -1,0 +1,6 @@
+module Pods_MVVMWIthRx {
+  umbrella header "Pods-MVVMWIthRx-umbrella.h"
+
+  export *
+  module * { export * }
+}
